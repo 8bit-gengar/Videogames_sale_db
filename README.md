@@ -15,7 +15,6 @@ This repository contains a data analytics project built using **Databricks Free 
 
 ---
 
-##Author
 
 **Shubham Ravindra Pendkar**
 Master’s in Business Analytics & Data Science
